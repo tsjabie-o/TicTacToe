@@ -7,7 +7,7 @@ namespace TTTwin
 {
     public class Form1 : Form
     {
-        // * Spel aan?
+        // * Spel aan
         bool spel_aan;
 
         // * Afmetingen en locatie spelbord
