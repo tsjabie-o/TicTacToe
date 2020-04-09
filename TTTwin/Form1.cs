@@ -21,7 +21,7 @@ namespace TTTwin
         Label winnaar = new Label();
         Button nieuw_spel = new Button();
 
-        // * Object back-end spel
+        // *  Object back-end spel
         Spel spel = new Spel();
 
         // * Constructor
