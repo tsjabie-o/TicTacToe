@@ -1,0 +1,16 @@
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\TTTwin.exe
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\TTTwin.deps.json
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\TTTwin.runtimeconfig.json
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\TTTwin.runtimeconfig.dev.json
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\TTTwin.dll
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\TTTwin.pdb
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\Classlib.dll
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\bin\Debug\netcoreapp3.1\Classlib.pdb
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.csprojAssemblyReference.cache
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.csproj.CoreCompileInputs.cache
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.AssemblyInfoInputs.cache
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.AssemblyInfo.cs
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.csproj.CopyComplete
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.dll
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.pdb
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\TTTwin\obj\Debug\netcoreapp3.1\TTTwin.genruntimeconfig.cache

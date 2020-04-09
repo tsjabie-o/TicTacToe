@@ -1,0 +1,9 @@
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\bin\Debug\netstandard2.0\Classlib.deps.json
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\bin\Debug\netstandard2.0\Classlib.dll
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\bin\Debug\netstandard2.0\Classlib.pdb
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\obj\Debug\netstandard2.0\Classlib.csprojAssemblyReference.cache
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\obj\Debug\netstandard2.0\Classlib.csproj.CoreCompileInputs.cache
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\obj\Debug\netstandard2.0\Classlib.AssemblyInfoInputs.cache
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\obj\Debug\netstandard2.0\Classlib.AssemblyInfo.cs
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\obj\Debug\netstandard2.0\Classlib.dll
+C:\Users\xoort\Dropbox\Programming projects\TicTacToe\Classlib\obj\Debug\netstandard2.0\Classlib.pdb
